@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=42&duration=3500&pause=900&color=5C4033&center=true&vCenter=true&width=620&height=70&lines=Merhaba%2C+ben+Evrim+Avc%C4%B1+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisi+%C3%96%C4%9Frencisi" alt="Merhaba, ben Evrim Avcı" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=42&duration=3500&pause=900&color=5C4033&center=true&vCenter=true&width=620&height=70&lines=Merhaba%2C+ben+Evrim%F0%9F%91%8B%F0%9F%8F%BB" alt="Merhaba, ben Evrim👋🏻" />
 
 <br />
 
@@ -17,13 +17,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Status-Fikir%20%C3%BCretiyor-5C4033?style=for-the-badge&labelColor=E8DFD0" alt="Status" />
+      <img src="https://img.shields.io/badge/Status-Bilgisayar%20M%C3%BChendisi-5C4033?style=for-the-badge&labelColor=E8DFD0" alt="Status" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Based%20in-T%C3%BCrkiye-8B6914?style=for-the-badge&labelColor=E8DFD0" alt="Based in Türkiye" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Learning-%C3%96%C4%9Freniyorum-6B5344?style=for-the-badge&labelColor=E8DFD0" alt="Learning" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Interests-YZ%20%C2%B7%20Kuantum%20%C2%B7%20Sim%C3%BClasyon-A67C52?style=for-the-badge&labelColor=E8DFD0" alt="Interests" />
