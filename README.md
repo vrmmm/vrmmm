@@ -108,14 +108,10 @@ Yazılım dünyasında **mantıksal çözümler** üretmeyi seven bir Bilgisayar
 
 <br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vrmmm&show_icons=true&theme=default&hide_border=true&bg_color=F5F0E8&title_color=5C4033&icon_color=A67C52&text_color=3D3229&ring_color=8B6914" alt="Evrim'in GitHub istatistikleri" />
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vrmmm&theme=default&hide_border=true&background=F5F0E8&stroke=E0D5C5&ring=A67C52&fire=8B6914&currStreakLabel=5C4033&sideLabels=5C4033&currStreakNum=3D3229&sideNums=3D3229&dates=7A6552" alt="Evrim'in streak istatistikleri" />
 
 <br />
 <br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vrmmm&bg_color=F5F0E8&color=5C4033&line=A67C52&point=8B6914&area=true&area_color=E8DFD0&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="Katkı grafiği" />
 
 </div>
 
